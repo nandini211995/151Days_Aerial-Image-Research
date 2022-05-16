@@ -7,7 +7,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/nandini-saini-175b7882/
 | Days | Topic                                        | Post Link              |
 | ---- | -------------------------------------------- | ---------------------- |
 | 1    | **Learning RoI Transformer for Oriented Object Detection in Aerial Images** | https://bit.ly/3sW7kkL |
-| 2   | **ReDet: A Rotation-Equivariant Detector for Aerial Object Detection ** |  |
+| 2   | **ReDet: A Rotation-Equivariant Detector for Aerial Object Detection** |  |
 | 3  | **Oriented R-CNN for Object Detection** |  |
 | 4   | ** ** |  |
 | 5   | ** ** |  |
